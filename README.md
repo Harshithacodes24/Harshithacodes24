@@ -21,7 +21,7 @@ Python • SQL • HTML • CSS • JavaScript • Git • GitHub • PostgreSQL
 ### 🎯 Currently Focusing On
 
 * Strengthening my programming and CS fundamentals
-* Improving problem-solving and DSA
+* Strengthening problem-solving and DSA skills 
 * Preparing for technical interviews and placements
 * Building projects and gaining hands-on experience
 
