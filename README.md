@@ -14,7 +14,7 @@ Python • SQL • HTML • CSS • JavaScript • Git • GitHub • PostgreSQL
 
 ### 🚀 Projects & Achievements
 
-*  Built a **real-time Factory Management System**
+*  Built a **real-time Factory Management System** -**client project**
 * 🏆 **1st Place (team) – 2 National-Level Hackathons**
 *  Worked on projects focused on **cybersecurity and women safety**
 
