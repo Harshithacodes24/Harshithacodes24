@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Harshitha 👋
 
-<!--
-**Harshithacodes24/Harshithacodes24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering Student
 
-Here are some ideas to get you started:
+💻 Currently focusing on **placement preparation and strengthening my programming fundamentals**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Working on **Data Structures & Algorithms, SQL, DBMS, OOP, and core Computer Science concepts**.
+
+🚀 I enjoy building practical projects and participating in hackathons to gain hands-on experience.
+
+### 🛠️ Technologies
+
+Python • SQL • HTML • CSS • JavaScript • Git • GitHub • PostgreSQL • Supabase
+
+### 🚀 Projects & Achievements
+
+* 🏭 Built a **real-time Factory Management System**
+* 🏆 **1st Place (team) – 2 National-Level Hackathons**
+* 🔐 Worked on projects focused on **cybersecurity and women safety**
+
+### 🎯 Currently Focusing On
+
+* Strengthening my programming and CS fundamentals
+* Improving problem-solving and DSA
+* Preparing for technical interviews and placements
+* Building projects and gaining hands-on experience
+
+🌱 **Learning, building, and preparing for the next step in my career.**
