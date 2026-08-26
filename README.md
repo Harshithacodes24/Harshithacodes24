@@ -2,21 +2,21 @@
 
 🎓 Computer Science & Engineering Student
 
-💻 Currently focusing on **placement preparation and strengthening my programming fundamentals**.
+ Currently focusing on **placement preparation and strengthening my programming fundamentals**.
 
-🧠 Working on **Data Structures & Algorithms, SQL, DBMS, OOP, and core Computer Science concepts**.
+ Working on **Data Structures & Algorithms, SQL, DBMS, OOP, and core Computer Science concepts**.
 
-🚀 I enjoy building practical projects and participating in hackathons to gain hands-on experience.
+ I enjoy building practical projects and participating in hackathons to gain hands-on experience.
 
-### 🛠️ Technologies
+###  Technologies
 
 Python • SQL • HTML • CSS • JavaScript • Git • GitHub • PostgreSQL • Supabase
 
 ### 🚀 Projects & Achievements
 
-* 🏭 Built a **real-time Factory Management System**
+*  Built a **real-time Factory Management System**
 * 🏆 **1st Place (team) – 2 National-Level Hackathons**
-* 🔐 Worked on projects focused on **cybersecurity and women safety**
+*  Worked on projects focused on **cybersecurity and women safety**
 
 ### 🎯 Currently Focusing On
 
