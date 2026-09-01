@@ -196,8 +196,6 @@ A Python-based desktop application for searching and indexing multiple document 
 An AI-based application that analyzes potential scams and suspicious online content, helping users identify threats and providing **practical suggestions on how to stay safe and avoid scams**.
 
 </td>
-
-</td>
 </tr>
 </table>
 
