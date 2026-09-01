@@ -1,99 +1,224 @@
-# Hi, I'm Harshitha 👋
+<div align="center">
 
-🎓 **Computer Science & Engineering Student | Software Developer**
+# 👋 Hi, I'm Harshitha
 
-💻 I build **practical web applications and software projects** focused on solving real-world problems.
+### 💻 Computer Science & Engineering Student | Software Developer
 
-🚀 My experience includes developing a **real-time Factory Management System for a client**, building safety-focused applications, and working on projects involving **web development, databases, and machine learning**.
+Building practical applications, exploring technology, and turning ideas into working solutions.
 
-🧠 I work with **Python, JavaScript, SQL, PostgreSQL, and Supabase**, and enjoy exploring new technologies through hands-on projects and hackathons.
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Harshithacodes24-181717?style=for-the-badge&logo=github)](https://github.com/Harshithacodes24)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshitha-0A66C2?style=for-the-badge&logo=linkedin)](YOUR-LINKEDIN-URL)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-**Languages**
+<table>
+<tr>
+<td width="50%">
 
-`Python` `SQL` `JavaScript` `HTML` `CSS`
+### 👩‍💻 What I Do
 
-**Backend & Database**
+- Build practical web applications
+- Develop database-driven systems
+- Work with Python and SQL
+- Explore machine learning applications
+- Participate in hackathons
+- Turn real-world problems into software solutions
 
-`Node.js` `Express.js` `PostgreSQL` `Supabase`
+</td>
 
-**Tools**
+<td width="50%">
 
-`Git` `GitHub`
+### ⚡ My Approach
+
+**Build → Experiment → Solve → Improve**
+
+I enjoy learning through hands-on development and creating projects that go beyond simple academic exercises.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏭 Featured Project
 
-### Factory Management System
+<table>
+<tr>
+<td>
 
-**Real-time factory operations management system — Client Project**
+# Factory Management System
 
-Designed and developed a web-based system to digitize and streamline day-to-day factory operations.
+### 🌟 Real-Time Client Project
 
-**Built features including:**
+A web-based management system developed for a **real-world manufacturing business** to digitize and streamline daily factory operations.
 
-- 👥 Employee registration & authentication
-- 📍 GPS-based attendance & geofencing
-- 📸 Selfie-based attendance verification
-- 🏭 Production tracking with hourly updates
-- 📦 Raw material & stock management
-- 🔧 Machine issue reporting with photos & voice notes
-- 💰 Petty cash & expense management
-- 📊 Owner dashboard & operational monitoring
-- 📱 Progressive Web App (PWA)
+### 🔑 Key Features
 
-**Built with:**  
+| | Feature |
+|---|---|
+| 👥 | Employee management & authentication |
+| 📍 | GPS-based attendance & geofencing |
+| 📸 | Selfie-based attendance verification |
+| 🏭 | Production tracking & hourly updates |
+| 📦 | Raw material & stock management |
+| 🔧 | Machine issue reporting with photos & voice notes |
+| 💰 | Petty cash & expense management |
+| 📊 | Owner dashboard & operational monitoring |
+| 📱 | Progressive Web App (PWA) |
+
+### 🛠️ Built With
+
 `HTML` `CSS` `JavaScript` `Supabase` `PostgreSQL`
 
 🔒 **Client Project** — developed for real-world business use.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages & Web
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### 🗄️ Database & Backend Tools
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
 ## 🏆 Achievements
 
-🥇 **1st Place (Team) — 2 National-Level Hackathons**
+<table>
+<tr>
+<td align="center" width="50%">
 
-👩‍💻 **Jagruthi — Women Safety System**  
-A safety application featuring SOS alerts, route deviation detection, emergency contacts, and location-based assistance.
+# 🥇
 
-🛡️ **Cybersecurity Projects**  
-Built projects exploring practical cybersecurity concepts and solutions.
+### 1st Place
 
-📊 **VisionZero — Accident Severity Predictor**  
-Machine learning project for accident severity classification.
+**National-Level Hackathons**
 
----
+**2×**
 
-## 💡 What I Build
+</td>
 
-🌐 **Web Applications**  
-Building responsive and functional web applications with modern development tools.
+<td align="center" width="50%">
 
-🗄️ **Database-Driven Systems**  
-Working with SQL, PostgreSQL, Supabase, authentication, and application data.
+# 🚀
 
-🤖 **Machine Learning Projects**  
-Applying machine learning techniques to practical datasets and real-world problems.
+### Real-World Development
 
-🛡️ **Problem-Solving Projects**  
-Developing technology-driven solutions for safety, security, and business operations.
+**Client Project**
 
----
+Factory Management System
 
-## 🌱 Always Learning
-
-I enjoy learning by **building, experimenting, and solving real problems**.
-
-Currently exploring deeper into **software development, databases, DSA, and system design** while continuing to build practical projects.
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Let's Connect
+## 💡 Projects
 
-**GitHub:** [Harshithacodes24](https://github.com/Harshithacodes24)
+<table>
+<tr>
+<td width="50%">
 
-**LinkedIn:** [Connect with me](YOUR-LINKEDIN-URL)
+### 🛡️ Jagruthi
+
+**Women Safety System**
+
+A safety-focused application featuring:
+
+- 🚨 SOS alerts
+- 📍 Location assistance
+- 🛣️ Route deviation detection
+- 👥 Emergency contacts
+
+</td>
+
+<td width="50%">
+
+### 📊 VisionZero
+
+**Accident Severity Predictor**
+
+A machine learning project focused on predicting accident severity using classification techniques.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔎 IntelliSearch
+
+**File Search & Indexing System**
+
+A Python-based desktop application for searching and indexing multiple document formats.
+
+</td>
+
+<td width="50%">
+
+### 🌐 NodeJS SEO Website
+
+**SEO Exploration Project**
+
+A web project created to explore SEO-friendly website structure, content organization, routing, metadata, sitemap, and `robots.txt`.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Areas I Work With
+
+<p align="center">
+
+`Python` • `SQL` • `Web Development` • `Database Systems`  
+`Supabase` • `PostgreSQL` • `Machine Learning` • `Problem Solving`
+
+</p>
+
+---
+
+## 📈 Developer Mindset
+
+```text
+        BUILD
+          ↓
+      EXPERIMENT
+          ↓
+        SOLVE
+          ↓
+       IMPROVE
+          ↓
+        REPEAT
