@@ -9,7 +9,7 @@ Building practical applications, exploring technology, and turning ideas into wo
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Harshithacodes24-181717?style=for-the-badge&logo=github)](https://github.com/Harshithacodes24)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshitha-0A66C2?style=for-the-badge&logo=linkedin)](YOUR-LINKEDIN-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshitha-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/harshithachandan)
 
 </div>
 
@@ -187,11 +187,15 @@ A Python-based desktop application for searching and indexing multiple document 
 
 <td width="50%">
 
-### 🌐 NodeJS SEO Website
+<td width="50%">
 
-**SEO Exploration Project**
+### 🛡️ ScamShield AI
 
-A web project created to explore SEO-friendly website structure, content organization, routing, metadata, sitemap, and `robots.txt`.
+**AI-Powered Scam Detection & Safety Guidance**
+
+An AI-based application that analyzes potential scams and suspicious online content, helping users identify threats and providing **practical suggestions on how to stay safe and avoid scams**.
+
+</td>
 
 </td>
 </tr>
