@@ -11,7 +11,17 @@ I enjoy turning ideas into working applications.
 
 <br>
 
-**💡 Think → 🔍 Explore → 🛠️ Build → 🚀 Deliver**
+### 💡 Think → 🔍 Explore → 🛠️ Build → 🚀 Deliver
+
+<br>
+
+<a href="https://github.com/Harshithacodes24">
+<img src="https://img.shields.io/badge/GitHub-Harshithacodes24-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/harshithachandan">
+<img src="https://img.shields.io/badge/LinkedIn-Harshitha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </div>
 
@@ -28,20 +38,21 @@ I enjoy taking an idea from **problem → concept → implementation → working
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
 ### 👩‍💻 What I Build
 
-- 🌐 Web Applications
-- 🏭 Business & Management Systems
-- 🗄️ Database-Driven Applications
-- 🛡️ Safety & Cybersecurity Solutions
-- 🤖 AI & Machine Learning Projects
-- 🔎 Search & Data Processing Systems
+<img src="https://img.shields.io/badge/Web_Applications-4F46E5?style=for-the-badge">
+<img src="https://img.shields.io/badge/Business_Systems-0891B2?style=for-the-badge">
+<img src="https://img.shields.io/badge/Database_Applications-7C3AED?style=for-the-badge">
+<br><br>
+<img src="https://img.shields.io/badge/Safety_&_Cybersecurity-DC2626?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI_&_Machine_Learning-059669?style=for-the-badge">
+<img src="https://img.shields.io/badge/Search_&_Data-CA8A04?style=for-the-badge">
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
 ### ⚡ How I Work
 
@@ -61,7 +72,11 @@ I learn what I need, experiment with different approaches, and keep working unti
 
 ## 💭 More Than Just Code
 
-> ### **“I don't let ‘I don't know how’ become ‘I can't do it.’”**
+<div align="center">
+
+### ⚡ “I don't let ‘I don't know how’ become ‘I can't do it.’”
+
+</div>
 
 I may not know every technology today — and I'm okay with that.
 
@@ -69,15 +84,23 @@ What I bring is **curiosity, vision, persistence, and the willingness to figure 
 
 If I see a problem worth solving, I find a way forward:
 
+<div align="center">
+
 **See the problem → Imagine the solution → Learn what is needed → Build it → Get it done.**
 
-### **Vision gives the direction. Persistence gets the work done. 🚀**
+### 🌟 Vision gives the direction. Persistence gets the work done.
+
+</div>
 
 ---
 
 # 🏭 Featured Project
 
-## Factory Management System
+<table>
+<tr>
+<td>
+
+## 🏭 Factory Management System
 
 ### 🌟 Real-Time Client Project
 
@@ -85,24 +108,34 @@ A web-based management system developed for a **real-world manufacturing busines
 
 Instead of managing multiple operational activities manually, the system brings them together into a centralized platform for the business owner and employees.
 
+---
+
 ### 🔑 What I Built
 
 <table>
 <tr>
+
 <td width="50%">
 
-**👥 Employee Management**
+### 👥 Employee Management
+
 - Employee registration
 - Authentication
 - Owner & employee access
 
-**📍 Smart Attendance**
+<br>
+
+### 📍 Smart Attendance
+
 - GPS-based attendance
 - Geofencing
 - Selfie verification
 - Duty-hour based attendance logic
 
-**🏭 Production**
+<br>
+
+### 🏭 Production
+
 - Hourly production updates
 - Production monitoring
 
@@ -110,34 +143,57 @@ Instead of managing multiple operational activities manually, the system brings 
 
 <td width="50%">
 
-**📦 Inventory**
+### 📦 Inventory
+
 - Raw material tracking
 - Stock management
 - Material records
 
-**🔧 Machine Issues**
+<br>
+
+### 🔧 Machine Issues
+
 - Issue reporting
 - Photo evidence
 - Voice notes
 
-**💰 Financial Tracking**
+<br>
+
+### 💰 Financial Tracking
+
 - Petty cash
 - Expense management
 - Owner monitoring
 
 </td>
+
 </tr>
 </table>
 
+---
+
 ### 🛠️ Built With
 
-`HTML` `CSS` `JavaScript` `Supabase` `PostgreSQL` `PWA`
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white">
+
+<br>
 
 > 🔒 **Client Project** — developed for real-world business use.
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🏆 Achievements
+
+<div align="center">
 
 <table>
 <tr>
@@ -148,9 +204,9 @@ Instead of managing multiple operational activities manually, the system brings 
 
 ### 1st Place
 
-**National-Level Hackathons**
+<img src="https://img.shields.io/badge/National--Level_Hackathons-FFD700?style=for-the-badge&logoColor=black">
 
-🏆 **2×**
+### 🏆 2×
 
 </td>
 
@@ -160,14 +216,16 @@ Instead of managing multiple operational activities manually, the system brings 
 
 ### Real-World Development
 
-**Client Project**
+<img src="https://img.shields.io/badge/Client_Project-00C853?style=for-the-badge">
 
-🏭 Factory Management System
+### 🏭 Factory Management System
 
 </td>
 
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -191,6 +249,12 @@ A safety-focused application designed to assist users during emergencies.
 🛣️ Route Deviation Detection  
 👥 Emergency Contacts
 
+<br>
+
+<img src="https://img.shields.io/badge/Safety-DC2626?style=flat-square">
+<img src="https://img.shields.io/badge/Location-2563EB?style=flat-square">
+<img src="https://img.shields.io/badge/Emergency-7C3AED?style=flat-square">
+
 </td>
 
 <td width="50%">
@@ -209,6 +273,12 @@ It helps users **identify potential threats and understand how to stay safe**, p
 🛡️ Cybersecurity  
 🔍 Scam Detection  
 💡 Safety Guidance
+
+<br>
+
+<img src="https://img.shields.io/badge/AI-059669?style=flat-square">
+<img src="https://img.shields.io/badge/Cybersecurity-DC2626?style=flat-square">
+<img src="https://img.shields.io/badge/Safety-2563EB?style=flat-square">
 
 </td>
 
@@ -230,6 +300,12 @@ A machine learning project focused on predicting accident severity using classif
 📈 Classification  
 📊 Data Analysis
 
+<br>
+
+<img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=flat-square">
+<img src="https://img.shields.io/badge/Classification-2563EB?style=flat-square">
+<img src="https://img.shields.io/badge/Data_Analysis-0891B2?style=flat-square">
+
 </td>
 
 <td width="50%">
@@ -247,6 +323,12 @@ A Python-based desktop application designed to search and index information acro
 📂 File Indexing  
 🖥️ Desktop Application
 
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Search-CA8A04?style=flat-square">
+<img src="https://img.shields.io/badge/Indexing-7C3AED?style=flat-square">
+
 </td>
 
 </tr>
@@ -256,43 +338,64 @@ A Python-based desktop application designed to search and index information acro
 
 # 🧰 Tech Stack
 
+<div align="center">
+
 ### 💻 Languages & Web
 
-`Python` `SQL` `JavaScript` `HTML` `CSS`
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 ### 🗄️ Database & Backend Services
 
-`PostgreSQL` `Supabase`
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
 
 ### 🔧 Tools
 
-`Git` `GitHub`
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ### 📚 Areas
 
-`Web Development` `Database Systems` `Machine Learning` `Problem Solving`
+<img src="https://img.shields.io/badge/Web_Development-4F46E5?style=for-the-badge">
+<img src="https://img.shields.io/badge/Database_Systems-0891B2?style=for-the-badge">
+<img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge">
+<img src="https://img.shields.io/badge/Problem_Solving-059669?style=for-the-badge">
+
+</div>
 
 ---
 
 # 🧠 What I Enjoy Working On
 
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│       REAL-WORLD PROBLEMS                   │
-│                ↓                            │
-│          FIND THE IDEA                      │
-│                ↓                            │
-│        EXPLORE TECHNOLOGY                   │
-│                ↓                            │
-│            BUILD IT                         │
-│                ↓                            │
-│          TEST & IMPROVE                     │
-│                ↓                            │
-│          DELIVER 🚀                         │
-│                                             │
-└─────────────────────────────────────────────┘
-```
+<div align="center">
+
+### 🌍 REAL-WORLD PROBLEMS
+
+⬇️
+
+### 💡 FIND THE IDEA
+
+⬇️
+
+### 🔬 EXPLORE TECHNOLOGY
+
+⬇️
+
+### 🛠️ BUILD IT
+
+⬇️
+
+### 🧪 TEST & IMPROVE
+
+⬇️
+
+### 🚀 DELIVER
+
+</div>
 
 I enjoy projects where technology has a **clear purpose** — whether that's improving business operations, increasing safety, detecting threats, or making information easier to access.
 
@@ -306,15 +409,22 @@ I'm continuously expanding my knowledge through **hands-on development, experime
 
 Rather than trying to know everything before starting, I believe in:
 
-### **Start → Learn → Build → Improve**
+<div align="center">
+
+### 🌱 Start → 📚 Learn → 🛠️ Build → 🔄 Improve
+
+</div>
 
 ---
 
 # 📌 My Developer Philosophy
 
+<div align="center">
+
 <table>
 <tr>
-<td align="center">
+
+<td align="center" width="33%">
 
 ### 💡 Vision
 
@@ -323,7 +433,7 @@ Have a clear idea of
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
 ### 🧠 Curiosity
 
@@ -332,7 +442,7 @@ Be willing to learn
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
 ### ⚙️ Execution
 
@@ -344,6 +454,8 @@ Keep working until
 </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
@@ -353,5 +465,15 @@ Keep working until
 ### Thanks for visiting my profile! 👋
 
 **Always curious. Always building.**
+
+<br>
+
+<a href="https://github.com/Harshithacodes24">
+<img src="https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/harshithachandan">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
 
 </div>
