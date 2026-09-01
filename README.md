@@ -2,14 +2,16 @@
 
 # 👋 Hi, I'm Harshitha
 
-### 💻 Computer Science & Engineering Student | Software Developer
+### 💻 Computer Science & Engineering Student • Software Developer
 
-Building practical applications, exploring technology, and turning ideas into working solutions.
+**I build practical solutions to real-world problems.**
+
+From factory operations and women's safety to cybersecurity and machine learning,  
+I enjoy turning ideas into working applications.
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Harshithacodes24-181717?style=for-the-badge&logo=github)](https://github.com/Harshithacodes24)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshitha-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/harshithachandan)
+**💡 Think → 🔍 Explore → 🛠️ Build → 🚀 Deliver**
 
 </div>
 
@@ -17,210 +19,339 @@ Building practical applications, exploring technology, and turning ideas into wo
 
 ## 🚀 About Me
 
+I'm a **Computer Science & Engineering student and software developer** who enjoys building practical applications rather than limiting projects to the classroom.
+
+My experience includes developing a **real-time Factory Management System for a client**, building safety-focused applications, working with databases, and exploring machine learning and AI-based solutions.
+
+I enjoy taking an idea from **problem → concept → implementation → working solution**.
+
 <table>
 <tr>
+
 <td width="50%">
 
-### 👩‍💻 What I Do
+### 👩‍💻 What I Build
 
-- Build practical web applications
-- Develop database-driven systems
-- Work with Python and SQL
-- Explore machine learning applications
-- Participate in hackathons
-- Turn real-world problems into software solutions
+- 🌐 Web Applications
+- 🏭 Business & Management Systems
+- 🗄️ Database-Driven Applications
+- 🛡️ Safety & Cybersecurity Solutions
+- 🤖 AI & Machine Learning Projects
+- 🔎 Search & Data Processing Systems
 
 </td>
 
 <td width="50%">
 
-### ⚡ My Approach
+### ⚡ How I Work
 
 **Build → Experiment → Solve → Improve**
 
-I enjoy learning through hands-on development and creating projects that go beyond simple academic exercises.
+I learn best by building.
+
+When I don't know something, I don't treat it as a limitation.  
+I learn what I need, experiment with different approaches, and keep working until I find a way to make the solution work.
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🏭 Featured Project
+## 💭 More Than Just Code
 
-<table>
-<tr>
-<td>
+> ### **“I don't let ‘I don't know how’ become ‘I can't do it.’”**
 
-# Factory Management System
+I may not know every technology today — and I'm okay with that.
+
+What I bring is **curiosity, vision, persistence, and the willingness to figure things out.**
+
+If I see a problem worth solving, I find a way forward:
+
+**See the problem → Imagine the solution → Learn what is needed → Build it → Get it done.**
+
+### **Vision gives the direction. Persistence gets the work done. 🚀**
+
+---
+
+# 🏭 Featured Project
+
+## Factory Management System
 
 ### 🌟 Real-Time Client Project
 
-A web-based management system developed for a **real-world manufacturing business** to digitize and streamline daily factory operations.
+A web-based management system developed for a **real-world manufacturing business** to digitize and streamline day-to-day factory operations.
 
-### 🔑 Key Features
+Instead of managing multiple operational activities manually, the system brings them together into a centralized platform for the business owner and employees.
 
-| | Feature |
-|---|---|
-| 👥 | Employee management & authentication |
-| 📍 | GPS-based attendance & geofencing |
-| 📸 | Selfie-based attendance verification |
-| 🏭 | Production tracking & hourly updates |
-| 📦 | Raw material & stock management |
-| 🔧 | Machine issue reporting with photos & voice notes |
-| 💰 | Petty cash & expense management |
-| 📊 | Owner dashboard & operational monitoring |
-| 📱 | Progressive Web App (PWA) |
+### 🔑 What I Built
 
-### 🛠️ Built With
+<table>
+<tr>
+<td width="50%">
 
-`HTML` `CSS` `JavaScript` `Supabase` `PostgreSQL`
+**👥 Employee Management**
+- Employee registration
+- Authentication
+- Owner & employee access
 
-🔒 **Client Project** — developed for real-world business use.
+**📍 Smart Attendance**
+- GPS-based attendance
+- Geofencing
+- Selfie verification
+- Duty-hour based attendance logic
+
+**🏭 Production**
+- Hourly production updates
+- Production monitoring
+
+</td>
+
+<td width="50%">
+
+**📦 Inventory**
+- Raw material tracking
+- Stock management
+- Material records
+
+**🔧 Machine Issues**
+- Issue reporting
+- Photo evidence
+- Voice notes
+
+**💰 Financial Tracking**
+- Petty cash
+- Expense management
+- Owner monitoring
 
 </td>
 </tr>
 </table>
 
----
+### 🛠️ Built With
 
-## 🧰 Tech Stack
+`HTML` `CSS` `JavaScript` `Supabase` `PostgreSQL` `PWA`
 
-### 💻 Languages & Web
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### 🗄️ Database & Backend Tools
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-</p>
-
-### 🔧 Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+> 🔒 **Client Project** — developed for real-world business use.
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
 <table>
 <tr>
+
 <td align="center" width="50%">
 
-# 🥇
+## 🥇
 
 ### 1st Place
 
 **National-Level Hackathons**
 
-**2×**
+🏆 **2×**
 
 </td>
 
 <td align="center" width="50%">
 
-# 🚀
+## 🚀
 
 ### Real-World Development
 
 **Client Project**
 
-Factory Management System
+🏭 Factory Management System
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 💡 Projects
+# 💡 Projects
 
 <table>
 <tr>
+
 <td width="50%">
 
-### 🛡️ Jagruthi
+## 🛡️ Jagruthi
 
-**Women Safety System**
+### Women Safety System
 
-A safety-focused application featuring:
+A safety-focused application designed to assist users during emergencies.
 
-- 🚨 SOS alerts
-- 📍 Location assistance
-- 🛣️ Route deviation detection
-- 👥 Emergency contacts
+**Key areas:**
+
+🚨 SOS Alerts  
+📍 Location Assistance  
+🛣️ Route Deviation Detection  
+👥 Emergency Contacts
 
 </td>
 
 <td width="50%">
 
-### 📊 VisionZero
+## 🛡️ ScamShield AI
 
-**Accident Severity Predictor**
+### AI-Powered Scam Detection & Safety Guidance
 
-A machine learning project focused on predicting accident severity using classification techniques.
+An AI-based application that analyzes potential scams and suspicious online content.
+
+It helps users **identify potential threats and understand how to stay safe**, providing practical suggestions to avoid scams.
+
+**Focus:**
+
+🤖 AI  
+🛡️ Cybersecurity  
+🔍 Scam Detection  
+💡 Safety Guidance
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
-### 🔎 IntelliSearch
+## 📊 VisionZero
 
-**File Search & Indexing System**
+### Accident Severity Predictor
 
-A Python-based desktop application for searching and indexing multiple document formats.
+A machine learning project focused on predicting accident severity using classification techniques and real-world accident data.
+
+**Focus:**
+
+🤖 Machine Learning  
+📈 Classification  
+📊 Data Analysis
 
 </td>
 
 <td width="50%">
 
-<td width="50%">
+## 🔎 IntelliSearch
 
-### 🛡️ ScamShield AI
+### File Search & Indexing System
 
-**AI-Powered Scam Detection & Safety Guidance**
+A Python-based desktop application designed to search and index information across multiple document formats.
 
-An AI-based application that analyzes potential scams and suspicious online content, helping users identify threats and providing **practical suggestions on how to stay safe and avoid scams**.
+**Focus:**
+
+🐍 Python  
+🔎 Search  
+📂 File Indexing  
+🖥️ Desktop Application
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🧠 Areas I Work With
+# 🧰 Tech Stack
 
-<p align="center">
+### 💻 Languages & Web
 
-`Python` • `SQL` • `Web Development` • `Database Systems`  
-`Supabase` • `PostgreSQL` • `Machine Learning` • `Problem Solving`
+`Python` `SQL` `JavaScript` `HTML` `CSS`
 
-</p>
+### 🗄️ Database & Backend Services
+
+`PostgreSQL` `Supabase`
+
+### 🔧 Tools
+
+`Git` `GitHub`
+
+### 📚 Areas
+
+`Web Development` `Database Systems` `Machine Learning` `Problem Solving`
 
 ---
 
-## 📈 Developer Mindset
+# 🧠 What I Enjoy Working On
 
 ```text
-        BUILD
-          ↓
-      EXPERIMENT
-          ↓
-        SOLVE
-          ↓
-       IMPROVE
-          ↓
-        REPEAT
+┌─────────────────────────────────────────────┐
+│                                             │
+│       REAL-WORLD PROBLEMS                   │
+│                ↓                            │
+│          FIND THE IDEA                      │
+│                ↓                            │
+│        EXPLORE TECHNOLOGY                   │
+│                ↓                            │
+│            BUILD IT                         │
+│                ↓                            │
+│          TEST & IMPROVE                     │
+│                ↓                            │
+│          DELIVER 🚀                         │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+I enjoy projects where technology has a **clear purpose** — whether that's improving business operations, increasing safety, detecting threats, or making information easier to access.
+
+---
+
+# 🌱 Continuous Growth
+
+Technology changes constantly, and I enjoy being part of that process.
+
+I'm continuously expanding my knowledge through **hands-on development, experimentation, projects, and problem solving**.
+
+Rather than trying to know everything before starting, I believe in:
+
+### **Start → Learn → Build → Improve**
+
+---
+
+# 📌 My Developer Philosophy
+
+<table>
+<tr>
+<td align="center">
+
+### 💡 Vision
+
+Have a clear idea of  
+**what should be built.**
+
+</td>
+
+<td align="center">
+
+### 🧠 Curiosity
+
+Be willing to learn  
+**what I don't know.**
+
+</td>
+
+<td align="center">
+
+### ⚙️ Execution
+
+Keep working until  
+**the idea becomes real.**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🚀 Build. Learn. Solve. Repeat.
+
+### Thanks for visiting my profile! 👋
+
+**Always curious. Always building.**
+
+</div>
